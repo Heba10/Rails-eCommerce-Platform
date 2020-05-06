@@ -5,20 +5,17 @@ application up and running.
 
 Things you may want to cover:
 
+//check your vesion 
 * Ruby version
 
-* System dependencies
-
-* Configuration
-
+//create your DB
 * Database creation
+    * rails db:migrate
 
-* Database initialization
+//install the pacakages
+*  Demfile
+    * bundle install
+//run project
+* rail s
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
